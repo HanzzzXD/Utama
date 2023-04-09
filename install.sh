@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/ZassTdr/Utama/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/HanzxXD/Utama/main/repair.sh)
 }
 
 restoreBackUp(){
